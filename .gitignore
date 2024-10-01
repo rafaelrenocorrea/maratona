@@ -1,0 +1,9 @@
+# arquivos compilados
+**/main
+
+# arquivos de casos de teste
+**/in.txt
+**/out.txt
+
+# diretórios de configuração do vscode
+.vscode/
